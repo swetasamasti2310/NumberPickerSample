@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumberPickerSample</string>
+    <string name="number_picker_demo">Click here for Number Picker Demo</string>
+    <string name="hello_number_picker">Hello Number Picker!</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+    <string name="number_picker_dialog_title">Number Picker</string>
+    <string name="selected_value">Selected Value: %1$s </string>
+    <string name="pick_numbers">Pick Numbers</string>
+    <string name="not_yet_selected">Not yet selected</string>
+</resources>
